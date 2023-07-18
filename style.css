@@ -1,0 +1,106 @@
+/**
+ * Copyright 2023 David Cordero Rosales
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * 
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+ body 
+ {
+    background-color: #161b22;
+    color: #fff;
+ }
+.welcome 
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+p{
+    color: #2cb67d;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.bg-menu
+{
+    background-color: #161b22;
+}
+.picture 
+{
+  margin-top: -41px;
+}
+
+.proyect
+{
+    margin-top: 120px;
+    margin-bottom: 120px;  
+}
+
+.title
+{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.card 
+{
+    text-align: center;
+}
+.card-title 
+{
+    color: #161b22;
+}
+
+.habilid
+{
+    margin-top: 120px;
+    margin-bottom: 120px;  
+}
+
+.contact
+{
+    margin-top: 120px;
+    margin-bottom: 120px;  
+}
+
+ul li 
+{
+    float: left;
+    list-style: none;
+    margin-right: 25px;
+}
+
+a
+{
+    color:#fff !important;
+}
+a.scroll-top {
+	color: #222;
+	display: none;
+	width: 30px;
+	height: 30px;
+	position: fixed;
+	z-index: 1000;
+	bottom: 50px;
+	right: 30px;
+	font-size: 20px;
+	background: #fff;
+	border-radius: 3px !important;
+	text-align: center;
+	border: 1px solid hsla(0, 0%, 78%, 0.3)
+}
+a.scroll-top i {
+	position: relative;
+	top: 2px;
+}
